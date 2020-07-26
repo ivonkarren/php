@@ -1,0 +1,10 @@
+<?
+session_start();
+?>
+<html>
+<head>
+	<title>
+RegLog
+	</title>
+</head>
+<body>
